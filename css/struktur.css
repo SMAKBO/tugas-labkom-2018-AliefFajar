@@ -1,25 +1,21 @@
-body {
-	background-color: black 
-}
-
 h1 {
-	color: white
+	color: white;
 }
 
 p {
-	color: black
+	color: black;
 }
 
 head {
-	color: white
+	color: white;
 }
 
 div {
-	color: white
+	color: white;
 }
 
 .logo {
-	width: 40px
+	width: 40px;
 }
 
 .navbar {
